@@ -1,15 +1,3 @@
-# Julia Set
+# Mandel Brot Set
 
-[View documentation for this example online][dox] or [View compiled example
-online][compiled]
-
-[compiled]: https://rustwasm.github.io/wasm-bindgen/exbuild/julia_set/
-[dox]: https://rustwasm.github.io/docs/wasm-bindgen/examples/julia.html
-
-You can build the example locally with:
-
-```
-$ npm run serve
-```
-
-and then visiting http://localhost:8080 in a browser should run the example!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71a23112-f521-4189-87e2-3339dc628d25/deploy-status)](https://app.netlify.com/sites/daniel-mandelbrot/deploys)
