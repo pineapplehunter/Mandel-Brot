@@ -3,3 +3,4 @@ node_modules
 /dist/*
 !/dist/styles
 .idea
+yarn-error.log
