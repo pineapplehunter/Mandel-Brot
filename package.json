@@ -11,5 +11,6 @@
     "webpack-cli": "^3.1.1",
     "webpack-dev-server": "^3.1.0"
   },
-  "version": "0.1.1"
+  "version": "0.1.1",
+  "license": "MIT"
 }
