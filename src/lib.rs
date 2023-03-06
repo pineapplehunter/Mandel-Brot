@@ -1,7 +1,6 @@
-use std::ops::{Add, Neg};
+use std::ops::{Add, Mul, Neg};
 use wasm_bindgen::prelude::*;
 use wasm_bindgen::Clamped;
-use wasm_bindgen::__rt::core::ops::Mul;
 use web_sys::{CanvasRenderingContext2d, ImageData};
 
 #[wasm_bindgen]
